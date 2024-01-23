@@ -1,0 +1,17 @@
+The key fingerprint is:
+SHA256:FcZ32X1xVGzlGYq2setySm8ZRhwZgEcSHbMhKWzqV1c nithin.michael@xerris.com
+
+
+HCP SERVICE PRINCIPLE :
+
+Client ID : DiSGW4FvvAnwMkIV8uGQEHt7mNTouZY1
+Client secret : UnRsY9wMn8PQrcc16_SX--Z6pIXDwqUTNUiZ8KXRLSFnpKyW8HsqwK5tCmvivH1_
+
+
+Dummy Creds
+Access key :
+AKIARB2CFEPYSFP2UQU7
+
+	
+Secret access key:
+H/oLoPtfH0hKnxSJu+FqQj6SCmP+PChwFf06H3/u
